@@ -4,7 +4,7 @@
 
 
 This project analyzes session-level customer behavior on an e-commerce platform and predicts whether a user will make a purchase.  
-The goal was not only to build a classifier, but to **understand behavioral patterns** and compare how different machine learning models handle this type of data.
+The goal was not only to build a classifier, but to understand behavioral patterns and compare how different machine learning models handle this type of data.
 
 ## Datasets & Notebook
 Training Dataset: [Click to download](https://drive.google.com/drive/u/0/folders/1bDGWF8N644N-aG0zAoK6D7PuxMD1SQRK)  
